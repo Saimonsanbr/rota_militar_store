@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "nome": "Mochila Tática Militar Impermeável 30-50L",
+    "tags": ["mochila", "militar", "tática", "acampamento"],
+    "preco": "R$ 63,99",
+    "imagem": "imagens_produtos/mochila_militar_1.png",
+    "link": "https://s.shopee.com.br/9Kcqx7mg7a",
+    "esgotado": false
+  },
+  {
+    "id": 2,
+    "nome": "Coturno Militar Masculino Tratorado Impermeável",
+    "tags": ["coturno", "bota", "militar"],
+    "preco": "R$ 58,72",
+    "imagem": "imagens_produtos/cuturno_militar_1.png",
+    "link": "https://s.shopee.com.br/AUooLJ7tcZ",
+    "esgotado": false
+  },
+  {
+    "id": 3,
+    "nome": "Kit de Sobrevivência Completo Acampamento",
+    "tags": ["kit", "sobrevivência", "acampamento"],
+    "preco": "R$ 44,00",
+    "imagem": "imagens_produtos/kit_sobrevivencia_1.png",
+    "link": "https://s.shopee.com.br/3fyUCpIpS6",
+    "esgotado": false
+  },
+  {
+    "id": 4,
+    "nome": "Facão Tático Militar 30cm",
+    "tags": ["facão", "militar", "tático"],
+    "preco": "R$ 48,99",
+    "imagem": "imagens_produtos/facao_militar_1.png",
+    "link": "https://s.shopee.com.br/8pgaMNSg2c",
+    "esgotado": false
+  },
+  {
+    "id": 5,
+    "nome": "Lanterna Tática T9 P50 Super Potente",
+    "tags": ["lanterna", "tática", "militar"],
+    "preco": "R$ 39,99",
+    "imagem": "imagens_produtos/lanterna_tatica_1.png",
+    "link": "https://s.shopee.com.br/9AJQl0DfRr",
+    "esgotado": false
+  },
+  {
+    "id": 6,
+    "nome": "Bota CAT Couro Legítimo Militar",
+    "tags": ["bota", "militar", "coturno"],
+    "preco": "R$ 99,96",
+    "imagem": "imagens_produtos/bota_militar_1.png",
+    "link": "https://s.shopee.com.br/W1SR6O3ob",
+    "esgotado": false
+  },
+  {
+    "id": 7,
+    "nome": "Lanterna Tática Militar X900 LED",
+    "tags": ["lanterna", "militar", "led"],
+    "preco": "R$ 45,79",
+    "imagem": "imagens_produtos/lanterna_militar_2.png",
+    "link": "https://s.shopee.com.br/AKVO9Bm11o",
+    "esgotado": false
+  },
+  {
+    "id": 8,
+    "nome": "Canivete Retrátil Automático Militar",
+    "tags": ["canivete", "militar", "sobrevivência"],
+    "preco": "R$ 21,90",
+    "imagem": "imagens_produtos/canivete_militar_1.png",
+    "link": "https://s.shopee.com.br/7VBClzInhi",
+    "esgotado": false
+  },
+  {
+    "id": 9,
+    "nome": "Coturno Militar Couro Legítimo Kyllper",
+    "tags": ["coturno", "militar", "bota"],
+    "preco": "R$ 227,90",
+    "imagem": "imagens_produtos/coturno_militar_1.png",
+    "link": "https://s.shopee.com.br/1VtzcyJExE",
+    "esgotado": false
+  },
+  {
+    "id": 10,
+    "nome": "Facão Tático Militar Afiado",
+    "tags": ["facão", "tático", "militar"],
+    "preco": "R$ 39,99",
+    "imagem": "imagens_produtos/facao_tatico_1.png",
+    "link": "https://s.shopee.com.br/3Vf40epMPt",
+    "esgotado": false
+  },
+  {
+    "id": 11,
+    "nome": "Kit Sobrevivência 42 Peças Primeiros Socorros",
+    "tags": ["kit", "primeiros socorros", "sobrevivência"],
+    "preco": "R$ 254,99",
+    "imagem": "imagens_produtos/kit_sobrevivencia_2.png",
+    "link": "https://s.shopee.com.br/807TN3vOch",
+    "esgotado": false
+  },
+  {
+    "id": 12,
+    "nome": "Kit Primeiros Socorros Com Bolsa",
+    "tags": ["primeiros socorros", "kit", "emergência"],
+    "preco": "R$ 57,90",
+    "imagem": "imagens_produtos/kit_primeiros_1.png",
+    "link": "https://s.shopee.com.br/1gDPpQjyQo",
+    "esgotado": false
+  },
+  {
+    "id": 13,
+    "nome": "Kit 2 Caixa Organizadora Primeiros Socorros",
+    "tags": ["primeiros socorros", "organizador"],
+    "preco": "R$ 14,80",
+    "imagem": "imagens_produtos/kit_tampa_1.png",
+    "link": "https://s.shopee.com.br/40bKbjA5BQ",
+    "esgotado": false
+  },
+  {
+    "id": 14,
+    "nome": "Fogareiro Portátil Álcool Camping",
+    "tags": ["fogareiro", "camping", "sobrevivência"],
+    "preco": "R$ 32,30",
+    "imagem": "imagens_produtos/fogareiro_1.png",
+    "link": "https://s.shopee.com.br/1BH9EYBGGr",
+    "esgotado": false
+  },
+  {
+    "id": 15,
+    "nome": "Faca Rambo Tática Militar Aço Inox",
+    "tags": ["faca", "militar", "tática"],
+    "preco": "R$ 49,99",
+    "imagem": "imagens_produtos/faca_tatica_2.png",
+    "link": "https://s.shopee.com.br/1Vtze5mdFx",
+    "esgotado": false
+  },
+  {
+    "id": 16,
+    "nome": "Apito Sobrevivência Com Bússola",
+    "tags": ["apito", "sobrevivência", "emergência"],
+    "preco": "R$ 10,96",
+    "imagem": "imagens_produtos/apito_1.png",
+    "link": "https://s.shopee.com.br/3LLdpTJBMU",
+    "esgotado": false
+  },
+  {
+    "id": 17,
+    "nome": "Kit 5 Apitos Emergência Ao Ar Livre",
+    "tags": ["apito", "emergência"],
+    "preco": "R$ 19,00",
+    "imagem": "imagens_produtos/apito_2.png",
+    "link": "https://s.shopee.com.br/15BrVAN2g",
+    "esgotado": false
+  },
+  {
+    "id": 18,
+    "nome": "Power Bank Solar 20000mAh",
+    "tags": ["power bank", "solar", "energia"],
+    "preco": "R$ 59,99",
+    "imagem": "imagens_produtos/pb_solar_1.png",
+    "link": "https://s.shopee.com.br/30inR79j1s",
+    "esgotado": false
+  },
+  {
+    "id": 19,
+    "nome": "Power Bank Solar 50000mAh",
+    "tags": ["power bank", "solar"],
+    "preco": "R$ 125,99",
+    "imagem": "imagens_produtos/pb_solar_2.png",
+    "link": "https://s.shopee.com.br/50Troo66iF",
+    "esgotado": false
+  },
+  {
+    "id": 20,
+    "nome": "Painel Solar Portátil USB",
+    "tags": ["painel solar", "energia", "camping"],
+    "preco": "R$ 49,96",
+    "imagem": "imagens_produtos/placa_solar_1.png",
+    "link": "https://s.shopee.com.br/6fc5nshl8y",
+    "esgotado": false
+  },
+  {
+    "id": 21,
+    "nome": "Kit 2 Rádio Comunicador Baofeng 777s",
+    "tags": ["rádio", "comunicador", "baofeng"],
+    "preco": "R$ 92,99",
+    "imagem": "imagens_produtos/radio_comunicador_1.png",
+    "link": "https://s.shopee.com.br/3B2DdYRiiK",
+    "esgotado": false
+  },
+  {
+    "id": 22,
+    "nome": "Livro A Arte da Guerra - Edição Luxo",
+    "tags": ["livro", "estratégia"],
+    "preco": "R$ 19,90",
+    "imagem": "imagens_produtos/livro_1.png",
+    "link": "https://s.shopee.com.br/6pvW0M3U3O",
+    "esgotado": false
+  },
+  {
+    "id": 23,
+    "nome": "Kit Livros A Arte da Guerra + O Príncipe",
+    "tags": ["livro", "estratégia", "filosofia"],
+    "preco": "R$ 49,90",
+    "imagem": "imagens_produtos/livro_2.png",
+    "link": "https://s.shopee.com.br/4AukpSr607",
+    "esgotado": false
+  }
+]
