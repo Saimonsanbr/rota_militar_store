@@ -1,7 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overscroll-behavior-y: none;     /* mata o bounce elástico */
+  overscroll-behavior-x: none; 
+  /* ou */
+  /* overscroll-behavior-y: contain;  → permite bounce mas "contém" o efeito */
+}
+
+html {
+  background: url('https://i.pinimg.com/736x/55/c2/d1/55c2d1bf423b1baacac8f0d0d7dc039d.jpg') center/cover no-repeat fixed;
+  /* ou uma cor escura sólida se preferir */
+  /* background: #0a0a0a; */
+}
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: url('https://i.pinimg.com/736x/55/c2/d1/55c2d1bf423b1baacac8f0d0d7dc039d.jpg') center/cover no-repeat fixed;
+  background: transparent;   /* ← remove o background daqui */
+  margin: 0;
   color: #e0e0e0;
 }
 .logo {
@@ -140,4 +157,11 @@ input {
 
 .Vermais:hover {
   opacity: 0.8;
+}
+
+html,
+body,
+.overlay {   /* ou aplique só onde tem scroll, ex: body ou .overlay */
+  scrollbar-width: thin;          /* thin = fina, auto = padrão do sistema, none = esconde */
+  scrollbar-color: #6b8e23 #1b1f1b;   /* thumb (parte que arrasta) primeiro | track (fundo) depois */
 }
